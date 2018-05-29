@@ -1,3 +1,6 @@
 # Data Structures implemented in C++
-## Hashtable
+- Hashtable
+- Linked List
+- Stack
+- Vector
 
